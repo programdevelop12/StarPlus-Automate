@@ -1,0 +1,57 @@
+1633896433536	geckodriver	INFO	Listening on 127.0.0.1:56221
+1633896436577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LUKASL~1\\AppData\\Local\\Temp\\rust_mozprofile7LbanR"
+1633896437276	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lukas Lima\\AppData\\Local\\Temp\\rust_mozprofile7LbanR\\search.json.mozlz4", (void 0)))
+1633896440261	Marionette	INFO	Listening on port 56230
+1633896440794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633896475043	Marionette	INFO	Stopped listening on port 56230
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633897199742	geckodriver	INFO	Listening on 127.0.0.1:57179
+1633897202794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LUKASL~1\\AppData\\Local\\Temp\\rust_mozprofileOgcIvK"
+1633897203216	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lukas Lima\\AppData\\Local\\Temp\\rust_mozprofileOgcIvK\\search.json.mozlz4", (void 0)))
+1633897205934	Marionette	INFO	Listening on port 57189
+1633897205989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633897241499	Marionette	INFO	Stopped listening on port 57189
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633897265383	geckodriver	INFO	Listening on 127.0.0.1:57338
+1633897268431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LUKASL~1\\AppData\\Local\\Temp\\rust_mozprofileiljULN"
+1633897268948	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lukas Lima\\AppData\\Local\\Temp\\rust_mozprofileiljULN\\search.json.mozlz4", (void 0)))
+1633897271716	Marionette	INFO	Listening on port 57348
+1633897272126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633897294104	Marionette	INFO	Stopped listening on port 57348
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1633897406590	geckodriver	INFO	Listening on 127.0.0.1:51967
+1633897409658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LUKASL~1\\AppData\\Local\\Temp\\rust_mozprofileoaAQCg"
+1633897410073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lukas Lima\\AppData\\Local\\Temp\\rust_mozprofileoaAQCg\\search.json.mozlz4", (void 0)))
+1633897412972	Marionette	INFO	Listening on port 51977
+1633897413347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633897474279	Marionette	INFO	Stopped listening on port 51977
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
