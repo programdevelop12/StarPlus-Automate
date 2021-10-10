@@ -11,7 +11,9 @@ time.sleep(5)
 driver.find_element_by_xpath('//*[@id="email"]').send_keys('vavabill@gmail.com')
 time.sleep(5)
 driver.find_element_by_xpath('/html/body/div/div/div[4]/div/main/div/form/div[1]/button').click()
-
-#/html/body/header/nav[1]/a
-
-#/html/body/div/div/div[4]/div/main/div/form/div[1]/button
+time.sleep(5)
+driver.find_element_by_xpath('//*[@id="password"]').send_keys('Parched-Uneven-Underhand7')
+time.sleep(5)
+driver.find_element_by_xpath('/html/body/div/div/div[4]/div/main/div/form/div/button').click()
+time.sleep(5)
+driver.find_element_by_xpath('/html/body/div[1]/div/div[4]/div/main/div/div/section/ul/div[3]').click()
