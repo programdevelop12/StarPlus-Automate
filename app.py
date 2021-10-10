@@ -1,12 +1,12 @@
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium import webdriver
-import pandas as pd
-import random
 import time
-import pyautogui
 
 def bot_stream():
-    driver = webdriver.Firefox(executable_path=r'C:\geckodriver\geckodriver.exe')
+    driver = webdriver.Firefox(executable_path=r'./geckodriver.exe')
     driver.get("https://www.starplus.com/pt-br")
+    driver.find_element_by_xpath('/html/body/header/nav[1]/a').click()
+
+#/html/body/header/nav[1]/a
     
