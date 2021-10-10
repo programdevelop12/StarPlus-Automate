@@ -6,7 +6,7 @@ import random
 import time
 import pyautogui
 
-def youtube_bot_path():
+def bot_stream():
     driver = webdriver.Firefox(executable_path=r'C:\geckodriver\geckodriver.exe')
     driver.get("https://www.starplus.com/pt-br")
     
